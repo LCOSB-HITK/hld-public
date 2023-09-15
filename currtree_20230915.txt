@@ -1,0 +1,6 @@
+Folder PATH listing for volume Windows
+Volume serial number is BAE4-F5CA
+C:\USERS\LUCIU\DEV\LCOSB-HITK\-W
+Invalid path - \USERS\LUCIU\DEV\LCOSB-HITK\-W
+No subfolders exist 
+
